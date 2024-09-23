@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alaa</h1>  
 <h3 align="center">Data Analyst | Biotechnology Enthusiast</h3>  
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />  
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />  
 
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=alaahelmyoraby&label=Profile%20views&color=0e75b6&style=flat" alt="alaahelmyoraby" />  
@@ -36,7 +36,7 @@
 **Description:**  
 Developed interactive dashboards using Tableau and Power BI to visualize and communicate data insights clearly to stakeholders.
 
-[![View Portfolio PDF](https://img.icons8.com/plasticine/100/000000/pdf.png)](https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa_Oraby%E2%80%99s%20Portfolio.pdf)  
+[![View Portfolio PDF](https://drive.google.com/file/d/183wFWNPBJreXzKlZF7Ry__rcezChszeP/view?usp=sharing)  
 **Click the icon above to view the full Data Visualization Portfolio.**
 
 ---
