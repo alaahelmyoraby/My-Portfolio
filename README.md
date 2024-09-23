@@ -12,8 +12,8 @@
 
 ### 👨‍💻 About Me:  
 - 📋 **Resume**: Check out my Resume [**here**](https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa%20Oraby's%20CV-%20Data%20Analyst.pdf)  
-- 💬 **Ask me about**: Data Analysis, Bioinformatics, Data Visualization, Data Cleaning
-- 📫 **Reach me at**: [alaa.helmyoraby@gmail.com](mailto:alaa.helmyoraby@gmail.com)  
+- 💬 **Ask me about**: Data Analysis, Bioinformatics, Data Visualization, Python, SQL  
+- 📫 **Reach me at**: [alaa.helmyoraby@gmail.com](mailto:alaahelmyoraby@gmail.com)  
 - 📊 **Data Analysis Projects**: Explore my work on [**GitHub**](https://github.com/alaahelmyoraby/Data_Analysis-Projects)  
 
 ---
@@ -36,7 +36,9 @@
 **Description:**  
 Developed interactive dashboards using Tableau and Power BI to visualize and communicate data insights clearly to stakeholders.  
 
-<iframe src="https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa_Oraby%E2%80%99s%20Portfolio.pdf" style="width: 100%; height: 600px;"></iframe>  
+![Portfolio](https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa_Oraby%E2%80%99s%20Portfolio.pdf)  
+
+[Download Portfolio](https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa_Oraby%E2%80%99s%20Portfolio.pdf)
 
 ---
 
