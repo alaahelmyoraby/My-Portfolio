@@ -1,68 +1,85 @@
-![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)  
-<h1 align="center">Hi 👋, I'm Alaa</h1>  
-<h3 align="center">Data Analyst | Biotechnology Enthusiast</h3>  
+![Header Image](https://i.imgur.com/YSFrrVe.png)  
+# Hi 👋, I'm Alaa Oraby  
+**Data Analyst | Biotechnology Enthusiast**  
+
+---
+
+## 👩‍💻 About Me  
+I’m a detail-oriented Data Analyst with a strong foundation in biological sciences. With expertise in Python, SQL, and Excel, I am skilled in turning raw data into actionable insights. I also have experience in bioinformatics, allowing me to blend scientific research with data-driven methodologies. I use data visualization tools like Tableau and Power BI to present my findings clearly to both scientific and business stakeholders.
+
+---
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />  
 
-<p align="left">  
-  <img src="https://komarev.com/ghpvc/?username=alaahelmyoraby&label=Profile%20views&color=0e75b6&style=flat" alt="alaahelmyoraby" />  
-</p>  
+### 🔍 Professional Summary  
+- Expertise in **data analysis** and **data visualization**, with a focus on translating large datasets into valuable insights.
+- Programming skills in **Python** 🐍, **SQL** 🗄️, and experience with **Excel** 📊, **Tableau** 📉, and **Power BI** 📈.
+- Background in **bioinformatics**, analyzing genomic and proteomic data for scientific research.
+- Strong communicator with a passion for solving complex problems through data.
 
 ---
 
-### 👨‍💻 About Me:  
-- 📋 **Resume**: Check out my Resume [**here**](https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa%20Oraby's%20CV-%20Data%20Analyst.pdf)  
-- 💬 **Ask me about**: Data Analysis, Bioinformatics, Data Visualization, Python, SQL  
-- 📫 **Reach me at**: [alaa.helmyoraby@gmail.com](mailto:alaahelmyoraby@gmail.com)  
-- 📊 **Data Analysis Projects**: Explore my work on [**GitHub**](https://github.com/alaahelmyoraby/Data_Analysis-Projects)  
+## 💼 Featured Projects  
+
+### 1. Data Visualization Dashboard  
+**Tools:** Tableau 📉, Power BI 📈  
+I created interactive dashboards to visualize sales data, customer insights, and business KPIs. These dashboards help stakeholders identify patterns and make data-driven decisions.
+
+**Preview:**  
+![Dashboard Preview](https://i.imgur.com/mMojXaD.png)  
+
+[📄 View Full Portfolio PDF](https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa_Oraby%E2%80%99s%20Portfolio.pdf)  
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>  
-<p align="left">  
-  <a href="https://linkedin.com/in/alaahelmyoraby" target="_blank">  
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Alaa Helmy Oraby" height="40" width="40" />  
-  </a>  
-  <a href="https://kaggle.com/alaahelmyoraby" target="_blank">  
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Alaa Helmy Oraby" height="40" width="40" />  
-  </a>  
-</p>  
+### 2. Sales Data Analysis  
+**Tools:** SQL 🗄️, Excel 📊  
+Analyzed sales performance data using SQL and Excel, focusing on data cleaning, exploratory data analysis, and trend identification. Key insights were used to optimize business strategies and improve sales outcomes.
+
+**Preview:**  
+![Sales Data Analysis](https://i.imgur.com/ZIhqCug.png)  
+
+[📂 GitHub Repository](https://github.com/alaahelmyoraby/Data_Analysis-Projects)  
 
 ---
 
-## 💼 **Portfolio Projects**  
+### 3. Bioinformatics Data Pipeline  
+**Tools:** Python 🐍, Bash 🖥️  
+Developed a bioinformatics pipeline to analyze genomic data, focusing on sequence alignment and variant calling. This project contributed to molecular biology research by improving the understanding of genomic data.
 
-### 📊 **Data Visualization Projects**  
-**Description:**  
-Developed interactive dashboards using Tableau and Power BI to visualize and communicate data insights clearly to stakeholders.  
+**Preview:**  
+![Bioinformatics](https://i.imgur.com/9tl7FVW.png)  
 
-![Portfolio](https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa_Oraby%E2%80%99s%20Portfolio.pdf)  
-
-
----
-
-## 📈 **Sales Data Analysis**  
-**Description:**  
-Conducted a comprehensive sales data analysis using SQL and Excel. Focused on cleaning, aggregating, and visualizing large datasets to generate actionable business insights for sales performance optimization.  
-
-**Tools & Technologies:**  
-![SQL](https://img.shields.io/badge/SQL-00599C?style=flat&logo=postgresql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)  
+[🔬 View Bioinformatics Project](https://github.com/alaahelmyoraby/Bioinformatics_Diploma_NGS_Course_EBI_Pipeline)  
 
 ---
 
-## 🧬 **Bioinformatics Data Analysis**  
-**Description:**  
-Utilized Python, Bash scripting, and bioinformatics tools to analyze genomic data and derive insights for molecular biology research.  
-
-[View Bioinformatics Project](https://github.com/alaahelmyoraby/Bioinformatics_Diploma_NGS_Course_EBI_Pipeline)  
-
-**Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)  
+## 📚 Education  
+- **Pre-Master’s Degree** | Biotechnology Program, Cairo University (2024 - Present)  
+- **Bachelor’s Degree** | Biomedical Sciences, Molecular Cell Biology, Zewail City (2019 - 2023)  
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaahelmyoraby&show_icons=true&locale=en&layout=compact" alt="alaahelmyoraby" /></p>  
+## 🚀 Career Highlights  
+- **Data Analysis Trainee** | Digital Egypt Pioneers Initiative  
+  - Hands-on experience with Python, SQL, Tableau, and Power BI.
+  - Focused on analyzing real-world data to derive meaningful insights.
+  
+- **Data Science Trainee** | SHAI for AI  
+  - Developed proficiency in machine learning, data analysis, and visualization using Python.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alaahelmyoraby&show_icons=true&locale=en" alt="alaahelmyoraby" /></p>  
+---
 
-Thanks!
+## 🛠️ Skills  
+- **Programming:** Python 🐍, SQL 🗄️, Bash 🖥️  
+- **Data Analysis:** Excel 📊, Tableau 📉, Power BI 📈  
+- **Bioinformatics Tools:** GEO 🔬, NCBI 🔍  
+- **Soft Skills:** Communication, Project Management, Problem Solving  
+
+---
+
+## 🌍 Connect with Me  
+- [LinkedIn](https://linkedin.com/in/alaahelmyoraby)  
+- [GitHub](https://github.com/alaahelmyoraby)  
+- [Email](mailto:alaa.helmyoraby@gmail.com)  
+Thanks !
