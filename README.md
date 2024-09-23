@@ -1,7 +1,3 @@
-Here’s the revised README.md, following your instructions:
-
----
-
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)  
 <h1 align="center">Hi 👋, I'm Alaa</h1>  
 <h3 align="center">Data Analyst | Biotechnology Enthusiast</h3>  
@@ -38,9 +34,10 @@ Here’s the revised README.md, following your instructions:
 
 ### 📊 **Data Visualization Projects**  
 **Description:**  
-Developed interactive dashboards using Tableau and Power BI to visualize and communicate data insights clearly to stakeholders.  
+Developed interactive dashboards using Tableau and Power BI to visualize and communicate data insights clearly to stakeholders.
 
-<iframe src="https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa_Oraby%E2%80%99s%20Portfolio.pdf" style="width: 100%; height: 600px;"></iframe>  
+[![View Portfolio PDF](https://img.icons8.com/plasticine/100/000000/pdf.png)](https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa_Oraby%E2%80%99s%20Portfolio.pdf)  
+**Click the icon above to view the full Data Visualization Portfolio.**
 
 ---
 
@@ -67,7 +64,3 @@ Utilized Python, Bash scripting, and bioinformatics tools to analyze genomic dat
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaahelmyoraby&show_icons=true&locale=en&layout=compact" alt="alaahelmyoraby" /></p>  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alaahelmyoraby&show_icons=true&locale=en" alt="alaahelmyoraby" /></p>  
-
----
-
-This version removes the GEO badge, places bioinformatics at the end, integrates your updated resume link, and embeds the data visualization portfolio directly into the page.
