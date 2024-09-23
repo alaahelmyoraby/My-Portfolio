@@ -59,7 +59,7 @@ Utilized Python, Bash scripting, and bioinformatics tools to analyze genomic dat
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)  
 
----
+Thanks !😊
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaahelmyoraby&show_icons=true&locale=en&layout=compact" alt="alaahelmyoraby" /></p>  
 
