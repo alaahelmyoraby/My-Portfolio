@@ -1,4 +1,4 @@
-![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)  
+![MasterHead](https://www.istockphoto.com/photo/financial-data-as-graphs-charts-and-reports-comprehensive-analysis-of-marketing-gm1495408503-518429876?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fdata-analysis-gif&utm_medium=affiliate&utm_source=unsplash&utm_term=data+analysis+gif%3A%3Areduced-affiliates%3Ahalf)  
 <h1 align="center">Hi 👋, I'm Alaa</h1>  
 <h3 align="center">Data Analyst | Biotechnology Enthusiast</h3>  
 
