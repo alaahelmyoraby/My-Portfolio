@@ -38,7 +38,6 @@ Developed interactive dashboards using Tableau and Power BI to visualize and com
 
 ![Portfolio](https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa_Oraby%E2%80%99s%20Portfolio.pdf)  
 
-[Download Portfolio](https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa_Oraby%E2%80%99s%20Portfolio.pdf)
 
 ---
 
