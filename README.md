@@ -1,7 +1,3 @@
-Here’s the revised README.md, following your instructions:
-
----
-
 ![MasterHead]([https://towardsdatascience.com/9-data-visualization-tools-that-you-cannot-miss-in-2019-3ff23222a927](https://analyticsindiamag.com/wp-content/uploads/2020/07/aim_gifgraph.gif))  
 <h1 align="center">Hi 👋, I'm Alaa</h1>  
 <h3 align="center">Data Analyst | Biotechnology Enthusiast</h3>  
