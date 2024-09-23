@@ -1,8 +1,8 @@
-![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)  
+![MasterHead](https://media.tenor.com/PP9v7VIs6R4AAAAC/science-woman.gif)  
 <h1 align="center">Hi 👋, I'm Alaa</h1>  
 <h3 align="center">Data Analyst | Biotechnology Enthusiast</h3>  
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />  
+<img align="right" alt="Data Analyst" width="400" src="https://media.tenor.com/1Wx9shxlOjIAAAAC/woman-data.gif" />  
 
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=alaahelmyoraby&label=Profile%20views&color=0e75b6&style=flat" alt="alaahelmyoraby" />  
@@ -36,7 +36,9 @@
 **Description:**  
 Developed interactive dashboards using Tableau and Power BI to visualize and communicate data insights clearly to stakeholders.  
 
-<iframe src="https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa_Oraby%E2%80%99s%20Portfolio.pdf" style="width: 100%; height: 600px;"></iframe>  
+![Portfolio](https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa_Oraby%E2%80%99s%20Portfolio.pdf)  
+
+[Download Portfolio](https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa_Oraby%E2%80%99s%20Portfolio.pdf)
 
 ---
 
@@ -64,5 +66,4 @@ Utilized Python, Bash scripting, and bioinformatics tools to analyze genomic dat
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alaahelmyoraby&show_icons=true&locale=en" alt="alaahelmyoraby" /></p>  
 
----
-Thanks !
+Thanks!
