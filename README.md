@@ -1,8 +1,8 @@
-![MasterHead](https://media.tenor.com/PP9v7VIs6R4AAAAC/science-woman.gif)  
+![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)  
 <h1 align="center">Hi 👋, I'm Alaa</h1>  
 <h3 align="center">Data Analyst | Biotechnology Enthusiast</h3>  
 
-<img align="right" alt="Data Analyst" width="400" src="https://media.tenor.com/1Wx9shxlOjIAAAAC/woman-data.gif" />  
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />  
 
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=alaahelmyoraby&label=Profile%20views&color=0e75b6&style=flat" alt="alaahelmyoraby" />  
@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me:  
 - 📋 **Resume**: Check out my Resume [**here**](https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa%20Oraby's%20CV-%20Data%20Analyst.pdf)  
-- 💬 **Ask me about**: Data Analysis, Bioinformatics, Data Visualization, Python, SQL  
+- 💬 **Ask me about**: Data Analysis, Bioinformatics, Data Visualization, Data Cleaning
 - 📫 **Reach me at**: [alaa.helmyoraby@gmail.com](mailto:alaa.helmyoraby@gmail.com)  
 - 📊 **Data Analysis Projects**: Explore my work on [**GitHub**](https://github.com/alaahelmyoraby/Data_Analysis-Projects)  
 
@@ -36,9 +36,7 @@
 **Description:**  
 Developed interactive dashboards using Tableau and Power BI to visualize and communicate data insights clearly to stakeholders.  
 
-![Portfolio](https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa_Oraby%E2%80%99s%20Portfolio.pdf)  
-
-[Download Portfolio](https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa_Oraby%E2%80%99s%20Portfolio.pdf)
+<iframe src="https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa_Oraby%E2%80%99s%20Portfolio.pdf" style="width: 100%; height: 600px;"></iframe>  
 
 ---
 
