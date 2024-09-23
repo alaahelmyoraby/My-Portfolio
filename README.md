@@ -1,15 +1,8 @@
-# My-Portfolio
-It seems the README file is currently styled for a data scientist portfolio. I'll adjust the content to better align it with your data analyst experience and CV.
-
-Here’s the revised version:
-
----
-
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)  
 <h1 align="center">Hi 👋, I'm Alaa</h1>  
 <h3 align="center">Data Analyst | Biotechnology Enthusiast</h3>  
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />  
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />  
 
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=alaahelmyoraby&label=Profile%20views&color=0e75b6&style=flat" alt="alaahelmyoraby" />  
@@ -18,7 +11,7 @@ Here’s the revised version:
 ---
 
 ### 👨‍💻 About Me:  
-- 📋 **Resume**: Check out my Resume [**here**](#)  
+- 📋 **Resume**: Check out my Resume [**here**](https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa%20Oraby's%20CV-%20Data%20Analyst.pdf)  
 - 💬 **Ask me about**: Data Analysis, Bioinformatics, Data Visualization, Python, SQL  
 - 📫 **Reach me at**: [alaa.helmyoraby@gmail.com](mailto:alaa.helmyoraby@gmail.com)  
 - 📊 **Data Analysis Projects**: Explore my work on [**GitHub**](https://github.com/alaahelmyoraby/Data_Analysis-Projects)  
@@ -39,18 +32,15 @@ Here’s the revised version:
 
 ## 💼 **Portfolio Projects**  
 
-### 🧬 Bioinformatics Data Analysis  
+### 📊 **Data Visualization Projects**  
 **Description:**  
-Utilized Python, Bash scripting, and bioinformatics tools to analyze genomic data and derive insights for molecular biology research.  
+Developed interactive dashboards using Tableau and Power BI to visualize and communicate data insights clearly to stakeholders.  
 
-[View on GitHub](https://github.com/alaahelmyoraby/Bioinformatics)  
-
-**Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![GEO](https://img.shields.io/badge/GEO-DB-149414?style=flat)  
+<iframe src="https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa_Oraby%E2%80%99s%20Portfolio.pdf" style="width: 100%; height: 600px;"></iframe>  
 
 ---
 
-## 📊 **Sales Data Analysis**  
+## 📈 **Sales Data Analysis**  
 **Description:**  
 Conducted a comprehensive sales data analysis using SQL and Excel. Focused on cleaning, aggregating, and visualizing large datasets to generate actionable business insights for sales performance optimization.  
 
@@ -59,14 +49,14 @@ Conducted a comprehensive sales data analysis using SQL and Excel. Focused on cl
 
 ---
 
-## 📈 **Data Visualization Projects**  
+## 🧬 **Bioinformatics Data Analysis**  
 **Description:**  
-Developed interactive dashboards using Tableau and Power BI to visualize and communicate data insights clearly to stakeholders.  
+Utilized Python, Bash scripting, and bioinformatics tools to analyze genomic data and derive insights for molecular biology research.  
 
-[View on GitHub](https://github.com/alaahelmyoraby/Data_Analysis-Projects)  
+[View Bioinformatics Project](https://github.com/alaahelmyoraby/Bioinformatics_Diploma_NGS_Course_EBI_Pipeline)  
 
 **Tools & Technologies:**  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)  
 
 ---
 
@@ -75,5 +65,4 @@ Developed interactive dashboards using Tableau and Power BI to visualize and com
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alaahelmyoraby&show_icons=true&locale=en" alt="alaahelmyoraby" /></p>  
 
 ---
-
-This format is now more aligned with your background as a data analyst and the relevant projects and skills you've mentioned in your CV.
+Thanks !
