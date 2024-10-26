@@ -18,7 +18,15 @@
 
 ---
 
-<p align="left"> <a href="https://www.linkedin.com/in/alaa-helmy-oraby/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Alaa Helmy Oraby" height="40" width="40" /> </a> <a href="https://kaggle.com/alaahelmyoraby" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Alaa Helmy Oraby" height="40" width="40" /> </a> <a href="https://www.upwork.com/freelancers/~018d738273c09a68df?mp_source=share" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/upwork.png" alt="Upwork - Alaa Helmy Oraby" height="40" width="40" /> </a> </p>
+<h3 align="left">🌐 Connect with me:</h3>  
+<p align="left">  
+  <a href="https://www.linkedin.com/in/alaa-helmy-oraby/" target="_blank">  
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Alaa Helmy Oraby" height="40" width="40" />  
+  </a>  
+  <a href="https://kaggle.com/alaahelmyoraby" target="_blank">  
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Alaa Helmy Oraby" height="40" width="40" />  
+  </a>  
+</p>  
 
 ---
 
