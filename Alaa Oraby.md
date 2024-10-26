@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me:  
 - 📋 **Resume**: Check out my Resume [**here**](https://github.com/alaahelmyoraby/My-Portfolio/blob/main/Alaa%20Oraby's%20CV-%20Data%20Analyst.pdf)  
 - 💬 **Ask me about**: Data Analysis, Bioinformatics, Data Cleaning, Data Visualization 
-- 📫 **Reach me at**: [alaa.helmy.oraby@gmail.com](mailto:alaa.helmy.oraby@gmail.com),[Upwork](mailto:https://www.upwork.com/freelancers/~018d738273c09a68df?mp_source=share)  
+- 📫 **Reach me at**: [alaa.helmy.oraby@gmail.com](mailto:alaa.helmy.oraby@gmail.com), [Upwork](mailto:https://www.upwork.com/freelancers/~018d738273c09a68df?mp_source=share)  
 - 📊 **Data Analysis Projects**: Explore my work on [**GitHub**](https://github.com/alaahelmyoraby?tab=repositories)  
 
 ---
