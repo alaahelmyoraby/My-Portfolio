@@ -34,11 +34,11 @@
 
 ### 📊 **Data Visualization Projects**  
 **Description:**  
-Developed interactive dashboards using Tableau and Power BI to visualize and communicate data insights clearly to stakeholders.
+Dashboards using Tableau and Power BI to visualize and communicate data insights clearly to stakeholders.
 
 [![View Portfolio PDF](https://img.icons8.com/plasticine/100/000000/pdf.png)](https://drive.google.com/file/d/183wFWNPBJreXzKlZF7Ry__rcezChszeP/view?usp=sharing)  
 ---
-- **Explore My Tableau Work**: [Tableau Public Profile](https://public.tableau.com/app/profile/alaa.oraby1096/vizzes)  
+**Explore Interactive Dashaord on Tableau**: [Tableau Public Profile](https://public.tableau.com/app/profile/alaa.oraby1096/vizzes)  
 - [![View Portfolio PDF](https://img.icons8.com/plasticine/100/000000/pdf.png)](https://drive.google.com/file/d/183wFWNPBJreXzKlZF7Ry__rcezChszeP/view?usp=sharing)
 ---
 ## 📈 **Sales Data Analysis**  
