@@ -53,7 +53,7 @@ Conducted a comprehensive sales data analysis using SQL and Excel. Focused on cl
 **Description:**  
 Utilized Python, Bash scripting, and bioinformatics tools to analyze genomic data and derive insights for molecular biology research.  
 
-[View Bioinformatics Project]([https://github.com/alaahelmyoraby/Bioinformatics_Diploma_NGS_Course_EBI_Pipeline](https://github.com/alaahelmyoraby?tab=repositories))  
+[View Bioinformatics Project]([https://github.com/alaahelmyoraby/Bioinformatics_Diploma_NGS_Course_EBI_Pipeline](https://github.com/alaahelmyoraby?tab=repositories)
 
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)  
